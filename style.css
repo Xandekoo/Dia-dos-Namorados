@@ -153,16 +153,19 @@ body{
     }
 
     .conteudo__texto{
-        width: 75%;
+        width: 85%;
     }
     .cabecalho__links__link{
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
     .conteudo{
         display: flex;
         flex-direction: column-reverse;
     }
-    .imagem{
+    .imagem__hori{
+        width: 50%;
+    }
+    .imagem__vert{
         width: 50%;
     }
 }
