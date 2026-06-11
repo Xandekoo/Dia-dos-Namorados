@@ -13,7 +13,7 @@
 }
 
 .cabecalho{
-    padding: 3.5% 0% 0% 1%;
+    padding: 3.5% 0% 0% 4%;
     background-color: var(--cor-secundaria);
 
 }
@@ -155,6 +155,7 @@ body{
 
     .conteudo__texto{
         width: 85%;
+        justify-content: center;
     }
     .cabecalho__links__link{
         font-size: 0.5rem;
