@@ -70,7 +70,7 @@ body{
 }
 
 
-    .imagem__ert{
+    .imagem__vert{
         width: 30%;
         border-radius: 20px;
     }
@@ -169,7 +169,7 @@ body{
         width: 80%;
     }
     .imagem__vert{
-        width: 50%;
+        width: 80%;
     }
 
     
