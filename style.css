@@ -156,8 +156,8 @@ body{
         width: 85%;
     }
     .cabecalho__links__link{
-        font-size: 0.6rem;
-        gap: 1%;
+        font-size: 0.55rem;
+        gap: 0.6%;
     }
     .conteudo{
         display: flex;
