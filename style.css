@@ -156,14 +156,15 @@ body{
         width: 85%;
     }
     .cabecalho__links__link{
-        font-size: 0.5rem;
+        font-size: 0.7rem;
+        gap: 2%;
     }
     .conteudo{
         display: flex;
         flex-direction: column-reverse;
     }
     .imagem__hori{
-        width: 50%;
+        width: 60%;
     }
     .imagem__vert{
         width: 50%;
